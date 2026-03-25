@@ -1,5 +1,7 @@
 # Zig-Nominated-Compat
 
+⚠️ ATTENTION: I no longer maintain nominated version compat due to inactivity of Mach. You are STRONGLY recommended to use [release version](https://github.com/zig-release-compat) instead.
+
 Forks of libraries targetting [zig-nominated](https://machengine.org/docs/nominated-zig/) version.
 
 Maintained by [Froxcey](https://github.com/froxcy)
